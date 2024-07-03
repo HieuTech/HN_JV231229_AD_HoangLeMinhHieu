@@ -1,0 +1,21 @@
+[
+    
+    {
+        "id":1,
+        "productName": "Ipad Pro M4",
+        "price": 20000000,
+        "images": "https://cdn.tgdd.vn/Products/Images/522/237699/ipad-pro-m1-129-inch-wifi-gray-600x600.jpg"
+    },
+    {
+      "id": 2,
+      "productName": "MacBook Pro M3",
+      "price": 56000000,
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYchYsAe2QiL11Jf6_7QAtGQGldLr1GRxCZg&s"
+    },
+     {
+       "id": 3,
+       "productName": "IPhone 15 Pro Max",
+       "price": 36000000,
+       "images": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2024/06/24/15-pro-max-tu-nhien-2.png"
+     }
+]
